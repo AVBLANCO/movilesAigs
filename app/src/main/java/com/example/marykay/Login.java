@@ -26,6 +26,7 @@ public class Login extends AppCompatActivity {
     private TextInputEditText email;
     private TextInputEditText password;
     private Button btn;
+    //usuario
     private MaterialButton btn_registro;
 
     @Override
